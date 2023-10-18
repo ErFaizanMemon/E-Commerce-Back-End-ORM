@@ -76,7 +76,7 @@ npm run test
 
 ## Deployment
 
-Github Repo Link - 
+Github Repo Link - https://github.com/ErFaizanMemon/E-Commerce-Back-End-ORM
 
 Walktrough Video Link - 
 
