@@ -78,6 +78,6 @@ npm run test
 
 Github Repo Link - https://github.com/ErFaizanMemon/E-Commerce-Back-End-ORM
 
-Walktrough Video Link - 
+Walktrough Video Link - https://github.com/ErFaizanMemon/E-Commerce-Back-End-ORM/blob/master/Walkthrough.mkv
 
-Github Deployment Link - 
+Github Deployment Link - https://erfaizanmemon.github.io/E-Commerce-Back-End-ORM/
